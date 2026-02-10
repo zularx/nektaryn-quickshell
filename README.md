@@ -5,5 +5,4 @@ Simple quickshell confg
 
 ## Installation
 
-Just copy /quickshell to ~/.config/quickshell
-also you will need to install swaync.
+Just copy /quickshell to ~/.config/quickshell, also you will need to install swaync.
