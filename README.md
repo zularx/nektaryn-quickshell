@@ -6,7 +6,7 @@ Simple quickshell confg
 ## Installation
 
 Just copy /quickshell to ~/.config/quickshell, also you will need to install swaync.
-Add this to your hyprland conf and turn on blur in it to better view: 
+Add this to your hyprland conf and turn on blur in it to better view(only for top tier computers): 
 
 ```
 layerrule = blur on, match:namespace quickshell
